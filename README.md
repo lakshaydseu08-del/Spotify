@@ -2,7 +2,7 @@
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
-![Spotify Logo](![Uploading image.png…]()
+![Spotify Logo](https://martech.org/spotify-launches-self-serve-platform-audio-ad-campaigns/()
 )
 
 ## Overview
